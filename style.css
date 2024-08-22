@@ -1,0 +1,64 @@
+
+.cabeza{
+    background-color: aqua; 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contenedor{
+    display: flex;
+    align-items: center;
+}
+.IMG1{
+    flex: 1;
+    background-color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.IMG2{
+    flex: 1;
+    background-color: rgb(184, 10, 131);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.IMG3{
+    flex: 1;
+    background-color: rgb(109, 138, 5);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.texto{
+    flex: 2;
+    background-color: rgb(221, 229, 233);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.M{
+    flex: 1;
+    background-color: rgb(233, 146, 146);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.N{
+    flex: 1;
+    background-color: rgb(226, 131, 221);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.texto1{
+    flex: 2;
+    background-color: rgb(128, 221, 52);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.texto2{
+    flex: 2;
+    background-color: rgb(68, 70, 175);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.f{
+    flex: 1;
+    background-color: rgb(228, 125, 66);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
